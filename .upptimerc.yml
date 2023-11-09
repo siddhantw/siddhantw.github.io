@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Monitor
   introTitle: "Central place to find all the uptime status and respone times for my websites"
-  introMessage: I love open source
+  introMessage: I love open source!
   navbar:
     - title: Status
       href: /
