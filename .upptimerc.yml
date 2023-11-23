@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /siddhantw.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime Monitor
+  name: "Uptime Monitor"
   introTitle: "Central place to find all the uptime status and respone times for my websites"
   introMessage: I love open source!
   navbar:
@@ -26,6 +26,7 @@ status-website:
       href: /
     - title: Home
       href: https://siddhantwadhwani.com
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
