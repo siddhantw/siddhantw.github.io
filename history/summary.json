@@ -4,19 +4,19 @@
     "url": "https://siddhantwadhwani.com",
     "icon": "https://icons.duckduckgo.com/ip3/siddhantwadhwani.com.ico",
     "slug": "siddhant-wadhwani-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2741,
-    "timeDay": 2286,
-    "timeWeek": 2826,
-    "timeMonth": 2489,
-    "timeYear": 2741,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2743,
+    "timeDay": 2571,
+    "timeWeek": 2830,
+    "timeMonth": 2501,
+    "timeYear": 2743,
     "dailyMinutesDown": {
-      "2023-12-27": 0
+      "2023-12-27": 7
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 116,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2023-12-27": 458,
+      "2023-12-27": 464,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
