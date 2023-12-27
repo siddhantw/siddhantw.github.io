@@ -4,7 +4,7 @@
     "url": "https://siddhantwadhwani.com",
     "icon": "https://icons.duckduckgo.com/ip3/siddhantwadhwani.com.ico",
     "slug": "siddhant-wadhwani-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2826,
     "timeMonth": 2489,
     "timeYear": 2741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-27": 0
+    }
   },
   {
     "name": "Mark Monitor Website",
@@ -34,7 +36,7 @@
     "timeMonth": 116,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2023-12-27": 45,
+      "2023-12-27": 458,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
