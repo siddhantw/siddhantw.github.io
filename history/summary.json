@@ -6,8 +6,8 @@
     "slug": "siddhant-wadhwani-homepage",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2928,
@@ -16,7 +16,7 @@
     "timeMonth": 3583,
     "timeYear": 2928,
     "dailyMinutesDown": {
-      "2024-02-20": 0
+      "2024-02-20": 1
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 105,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-02-20": 41,
+      "2024-02-20": 43,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
