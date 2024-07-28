@@ -4,7 +4,7 @@
     "url": "https://siddhantwadhwani.com",
     "icon": "https://icons.duckduckgo.com/ip3/siddhantwadhwani.com.ico",
     "slug": "siddhant-wadhwani-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "86.55%",
     "uptimeDay": "96.71%",
     "uptimeWeek": "99.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 5615,
     "timeYear": 4169,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-07-27": 47,
       "2024-07-18": 17,
       "2024-07-11": 17,
@@ -81,7 +82,8 @@
     "timeMonth": 173,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2024-07-27": 1434,
+      "2024-07-28": 37,
+      "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
